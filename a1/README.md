@@ -35,10 +35,6 @@
 
 ![JDK Installation Screenshot](img/jdk_install.png)
 
-*Screenshot of Android Studio - My First App*:
-
-![Android Studio Installation Screenshot](img/android.png)
-
 | <span style="font-size: 20px;">Screen 1</span> |       | <span style="font-size: 20px;">Screen 2</span> |
 | :--------------------------------------------: | ----- | :--------------------------------------------: |
 | ![Screen 1](img/screen1.png "Android Application Screen 1 image") |         | ![Screen 2](img/screen2.png "Android Application Screen 2 image") |
