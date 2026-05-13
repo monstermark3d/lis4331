@@ -1,0 +1,12 @@
+{
+  "appName": "MyAppNew",
+  "version": "2.0.0",
+  "settings":
+  {
+    "theme": "light",
+    "notifications": true,
+    "maxUsers": 100,
+    "cloudSync": true
+  },
+  "debug": true
+}

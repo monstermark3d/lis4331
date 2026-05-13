@@ -1,0 +1,11 @@
+{
+  "appName": "MyAppOld",
+  "version": "1.0.0",
+  "settings":
+  {
+    "theme": "dark",
+    "notifications": true,
+    "maxUsers": 50
+  },
+  "debug": false
+}

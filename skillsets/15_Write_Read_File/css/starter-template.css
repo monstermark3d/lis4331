@@ -1,0 +1,51 @@
+body
+{
+  padding-top: 50px;
+  background-color: #8dbee4;
+  color: #952684;
+  /*float: left; */
+  /*width: 30%; */
+}
+
+
+.page-header 
+{
+	border-bottom: 3px solid rgb(255, 253, 253); /* solid white line */
+  	padding-bottom: 10px; /* Optional: Add space between content and line */
+}
+
+.starter-template
+{
+	padding: 0px 15px;
+	text-align: center;
+}
+
+.text-justify-custom {
+      text-align: text-justify;
+    }
+
+img {
+  
+  margin-right: 8px;
+
+  
+}
+
+h1
+{
+	margin: 0px;     
+	color: #952684;
+	text-shadow: 5px 3px 4px rgb(247, 247, 252);
+
+	font-size: 48px;
+	font-family: "trebuchet ms", sans-serif;    
+}
+
+h2, h3, h4, p
+{
+	color: #211d6a;
+}
+label
+{
+	color: #211d6a;
+}
