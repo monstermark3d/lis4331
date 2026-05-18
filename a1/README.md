@@ -39,6 +39,10 @@
 | :--------------------------------------------: | ----- | :--------------------------------------------: |
 | ![Screen 1](img/screen1.png "Android Application Screen 1 image") |         | ![Screen 2](img/screen2.png "Android Application Screen 2 image") |
 
+*Screenshot of Contacts app*:
+
+![Contacts app Screenshot](img/contacts_app.gif "Contacts app Screenshot")
+
 *Screenshot of old diff file*:
 
 ![Old diff file Screenshot](img/diff_old.png "Old diff file Screenshot")
