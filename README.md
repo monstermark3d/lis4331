@@ -8,7 +8,7 @@
 
 1. [A1 README.md](a1/README.md "My A1 README.md file")
     - Install JDK
-    - Install Android Studio and create My First App
+    - Install Android Studio and create Contacts App
     - Provide screenshots of installations
     - Create Bitbucket repo
     - Provide git command descriptions

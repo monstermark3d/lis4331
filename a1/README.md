@@ -13,7 +13,7 @@
 #### README.md file includes the following items:
 
 * Screenshot of running java Hello
-* Screenshot of running Andriod Studio - My First App
+* Screenshot of running Andriod Studio - Contacts App
 * Screenshot of 'Old diff file'
 * Screenshot of 'New diff file'
 * git commands w/short descriptions
