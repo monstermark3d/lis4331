@@ -1,36 +1,35 @@
-# LIS4381 - Mobile Web Application Development
+# LIS4331 - Mobile Web Application Development
 
 ## Mark Trombly
 
 ### Assignment #2 Requirements:
 
-*Five Parts:*
+*Four Parts:*
 
-1. Android Studio application - Healthy Recipes.
-2. Skillset 1 - Even or Odd.
-3. Skillset 2 - Largest Number.
-4. Skillset 3 - Arrays and Loops.
-5. Chapter Questions (Ch 3,4)
+1. Provide screenshots of Tip Calculator App
+2. Skillsets 1 - 3
+3. GIT practice 
+4. Chapter Questions (Ch 3,4)
 
 #### README.md file includes the following items:
 
-* Screenshot of running Android Studio application - Healthy Recipes Screen 1
-* Screenshot of running Android Studio application - Healthy Recipes Screen 2
-* Screenshot Skillset 1 - Even or Odd
-* Screenshot Skillset 2 - Largest Number
-* Screenshot Skillset 3 - Arrays and Loops
+* Screenshot of running Android Studio application - Tip Calculator App Unpopulated Screen
+* Screenshot of running Android Studio application - Tip Calculator App Populated Screen
+* Screenshot Skillset 1 - 
+* Screenshot Skillset 2 - 
+* Screenshot Skillset 3 - 
 * Bitbucket repository link
 
 #### Assignment Screenshots:
 
-| <span style="font-size: 20px;">Screen 1</span> |       | <span style="font-size: 20px;">Screen 2</span> |
+| <span style="font-size: 20px;">Unpopulated Screen</span> |       | <span style="font-size: 20px;">Populated Screen</span> |
 | :--------------------------------------------: | ----- | :--------------------------------------------: |
-| ![Screen 1](img/screen1.png "Android Application Screen 1 image") |         | ![Screen 2](img/screen2.png "Android Application Screen 2 image") |
+| ![Unpopulated Screen](img/unpopulated.png "Android Application Unpopulated Screen image") |         | ![Populated Screen](img/populated.png "Android Application Populated Screen image") |
 
-|Skillset 1 - Even or Odd|Skillset 2 - Largest Number|Skillset 3 - Arrays and Loops|
+|Skillset 1 - Non OOP Circle|Skillset 2 - Multiple Number|Skillset 3 - Nested Stuctures|
 |--------|--------|--------|
-|[Link to Skillset 1 Code](../skillsets/1_Even_Or_Odd/ "Link to Skillset 1 Code")|[Link to Skillset 2 Code](../skillsets/2_Largest_Number/ "Link to Skillset 2 Code")|[Link to Skillset 3 Code](../skillsets/3_Arrays_And_Loops/ "Link to Skillset 3 Code") 
-|![Skillset 1 Even or Odd](img/evenorodd.png "Skillset 1 Even or Odd")|![Skillset 2 Largest Number](img/largestnumber.png "Skillset 2 Largest Number")|![Skillset 3](img/arraysandloops.png "Skillset 3 Arrays and Loops")|
+|[Link to Skillset 1 Code](../skillsets/1_Non_OOP_Circle/ "Link to Skillset 1 Code")|[Link to Skillset 2 Code](../skillsets/2_Muliple_Number/ "Link to Skillset 2 Code")|[Link to Skillset 3 Code](../skillsets/3_Nested_Structures/ "Link to Skillset 3 Code") 
+|[![Skillset 1 Even or Odd](img/nonOOPCircle.png "Skillset 1 Even or Odd")](img/nonOOPCircle.png)|[![Skillset 2 Largest Number](img/multipleNumber.png "Skillset 2 Largest Number")](img/multipleNumber.png)|[![Skillset 3](img/nestedStructures.png "Skillset 3 Arrays and Loops")](img/nestedStructures.png)|
 
 #### Repository Links:
 

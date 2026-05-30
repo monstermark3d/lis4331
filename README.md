@@ -13,8 +13,10 @@
     - Create Bitbucket repo
     - Provide git command descriptions
 
-2. [A2 README.md](_a2/README.md "My A2 README.md file")
-    - TBD
+2. [A2 README.md](a2/README.md "My A2 README.md file")
+    - Provide screenshots of Tip Calculator App
+    - Skillsets 1 - 3
+    - GIT practice 
 
 3. [A3 README.md](_a3/README.md "My A3 README.md file")
     - TBD
