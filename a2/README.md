@@ -28,7 +28,7 @@
 
 |Skillset 1 - Non OOP Circle|Skillset 2 - Multiple Number|Skillset 3 - Nested Stuctures|
 |--------|--------|--------|
-|[Link to Skillset 1 Code](../skillsets/1_Non_OOP_Circle/ "Link to Skillset 1 Code")|[Link to Skillset 2 Code](../skillsets/2_Muliple_Number/ "Link to Skillset 2 Code")|[Link to Skillset 3 Code](../skillsets/3_Nested_Structures/ "Link to Skillset 3 Code") 
+|[Link to Skillset 1 Code](../skillsets/1_Non_OOP_Circle/ "Link to Skillset 1 Code")|[Link to Skillset 2 Code](../skillsets/2_Multiple_Number/ "Link to Skillset 2 Code")|[Link to Skillset 3 Code](../skillsets/3_Nested_Structures/ "Link to Skillset 3 Code") 
 |[![Skillset 1 Even or Odd](img/nonOOPCircle.png "Skillset 1 Even or Odd")](img/nonOOPCircle.png)|[![Skillset 2 Largest Number](img/multipleNumber.png "Skillset 2 Largest Number")](img/multipleNumber.png)|[![Skillset 3](img/nestedStructures.png "Skillset 3 Arrays and Loops")](img/nestedStructures.png)|
 
 #### Repository Links:
