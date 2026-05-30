@@ -17,6 +17,7 @@
     - Provide screenshots of Tip Calculator App
     - Skillsets 1 - 3
     - GIT practice 
+    - Chapter Questions (Ch 3,4)
 
 3. [A3 README.md](_a3/README.md "My A3 README.md file")
     - TBD

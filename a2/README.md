@@ -13,11 +13,11 @@
 
 #### README.md file includes the following items:
 
-* Screenshot of running Android Studio application - Tip Calculator App Unpopulated Screen
-* Screenshot of running Android Studio application - Tip Calculator App Populated Screen
-* Screenshot Skillset 1 - 
-* Screenshot Skillset 2 - 
-* Screenshot Skillset 3 - 
+* Screenshot of running Android Studio application - Tip Calculator App Vertical Screen
+* Screenshot of running Android Studio application - Tip Calculator App Horizontal/Scrolling Screen
+* Screenshot Skillset 1 - Non OOP Circle
+* Screenshot Skillset 2 - Multiple Number
+* Screenshot Skillset 3 - Nested Structures
 * Bitbucket repository link
 
 #### Assignment Screenshots:
