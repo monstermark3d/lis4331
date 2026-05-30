@@ -22,9 +22,9 @@
 
 #### Assignment Screenshots:
 
-| <span style="font-size: 20px;">Unpopulated Screen</span> |       | <span style="font-size: 20px;">Populated Screen</span> |
+| <span style="font-size: 20px;">Vertical Screen</span> |       | <span style="font-size: 20px;">Horizontal/Scrolling Screen</span> |
 | :--------------------------------------------: | ----- | :--------------------------------------------: |
-| ![Unpopulated Screen](img/unpopulated.png "Android Application Unpopulated Screen image") |         | ![Populated Screen](img/populated.png "Android Application Populated Screen image") |
+| ![Vertical Screen](img/tipCalculator.gif "Android Application Vertical Screen image") |         | ![Horizontal/Scrolling Screen](img/tipCalculator_h.gif "Android Application Horizontal/Scrolling Screen image") |
 
 |Skillset 1 - Non OOP Circle|Skillset 2 - Multiple Number|Skillset 3 - Nested Stuctures|
 |--------|--------|--------|
