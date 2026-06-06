@@ -1,4 +1,4 @@
-# LIS4331 - Mobile Web Application Development
+# LIS4331 - Advanced Mobile Web Application Development
 
 ## Mark Trombly
 

@@ -20,9 +20,9 @@ public class Methods
     {
         Scanner sc = new Scanner(System.in);
         int count = 0;
-        double total = 0;
-        double average = 0;
-        double scoreTest = 0;
+        double total = 0.0;
+        double average = 0.0;
+        double scoreTest = 0.0;
 
         List<Double> scores = new ArrayList<>(); // list to store score values
 

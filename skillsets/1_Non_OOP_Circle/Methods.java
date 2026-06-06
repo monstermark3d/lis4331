@@ -21,9 +21,9 @@ public class Methods
         System.out.print("Enter circle radius: ");
         Scanner sc = new Scanner(System.in);
         double radius = 0.0;
-        double diameter;
-        double area;
-        double circumference;
+        double diameter = 0.0;
+        double area = 0.0;
+        double circumference = 0.0;
 
         while (!sc.hasNextDouble()) {
             System.out.println("Not valid number!\n");

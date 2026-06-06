@@ -1,4 +1,4 @@
-# LIS4331 - Mobile Web Application Development
+# LIS4331 - Advanced Mobile Web Application Development
 
 ## Mark Trombly
 
@@ -19,8 +19,14 @@
     - GIT practice 
     - Chapter Questions (Ch 3,4)
 
-3. [A3 README.md](_a3/README.md "My A3 README.md file")
-    - TBD
+3. [A3 README.md](a3/README.md "My A3 README.md file")
+    - Provide screenshots of Currency Converter App
+        - Splash Screen
+        - Unpopulated User Interface
+        - Toast Notification
+        - Converted Currency
+    - Skillsets 4 - 6
+    - Chapter Questions (Ch 5,6)
 
 4. [P1 README.md](_p1/README.md "My P1 README.md file")
     - TDB
