@@ -33,13 +33,13 @@
 
 4. [P1 README.md](p1/README.md "My P1 README.md file")
    
-   - Provide screenshots of My Music App
+    - Provide screenshots of My Music App
         - Splash Screen
         - Follow-up Screen
         - Play Screen
         - Pause Screen
-    - Skillsets 7 - 9
-    - Assignment Questions
+     - Skillsets 7 - 9
+     - Assignment Questions
 
 5. [A4 README.md](_a4/README.md "My A4 README.md file")
     - TBD
