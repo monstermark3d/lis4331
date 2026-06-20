@@ -29,6 +29,7 @@
     - Chapter Questions (Ch 5,6)
 
 4. [P1 README.md](p1/README.md "My P1 README.md file")
+   
    - Provide screenshots of My Music App
         - Splash Screen
         - Follow-up Screen
