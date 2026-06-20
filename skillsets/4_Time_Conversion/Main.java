@@ -2,7 +2,6 @@
 //follow me
 //multiple cursor
 //
-import java.util.Scanner;
 class ConvertTime
 {
  public static void main(String args[])
