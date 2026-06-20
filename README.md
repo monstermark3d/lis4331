@@ -7,6 +7,7 @@
 *Course Work Links:*
 
 1. [A1 README.md](a1/README.md "My A1 README.md file")
+
     - Install JDK
     - Install Android Studio and create Contacts App
     - Provide screenshots of installations
@@ -14,12 +15,14 @@
     - Provide git command descriptions
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
+
     - Provide screenshots of Tip Calculator App
     - Skillsets 1 - 3
     - GIT practice 
     - Chapter Questions (Ch 3,4)
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
+
     - Provide screenshots of Currency Converter App
         - Splash Screen
         - Unpopulated User Interface
