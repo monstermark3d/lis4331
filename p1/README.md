@@ -42,7 +42,7 @@
 |Skillset 7 - Measurement Conversion|Skillset 8 - Distance Calculator \(GUI\)|Skillset 9 - Multiple Selection List \(GUI\)|
 |--------|--------|--------|
 |[Link to Skillset 7 Code](../skillsets/7_Measurement_Conversion/ "Link to Skillset 7 Code")|[Link to Skillset 8 Code](../skillsets/8_Distance_Calculator_GUI/ "Link to Skillset 8 Code")|[Link to Skillset 9 Code](../skillsets/9_Multiple_Selection_Lists_GUI/ "Link to Skillset 9 Code") 
-|[![Skillset 7 Measurement Conversion](img/convert_inches.png "Skillset 7 Measurement Conversion")](img/convert_inches.png)|[![Skillset 8 - Distance Calculator \(GUI\)](img/distance_gui.png "Skillset 8 - Distance Calculator \(GUI\)")](img/distance_gui.png)|[![Skillset 9 - Multiple Selection List \(GUI\)](img/selection_gui.png "Skillset 9 - Multiple Selection List \(GUI\)")](img/selection_gui.png.png)|
+|[![Skillset 7 Measurement Conversion](img/convert_inches.png "Skillset 7 Measurement Conversion")](img/convert_inches.png)|[![Skillset 8 - Distance Calculator \(GUI\)](img/distance_gui.png "Skillset 8 - Distance Calculator \(GUI\)")](img/distance_gui.png)|[![Skillset 9 - Multiple Selection List \(GUI\)](img/selection_gui.png "Skillset 9 - Multiple Selection List \(GUI\)")](img/selection_gui.png)|
 
 #### Repository Links:
 
