@@ -42,7 +42,7 @@
 |Skillset 10 - Travel Time|Skillset 11 - Product (Base/Super/Parent) Class|Skillset 12 - Book (Sub/Derived/Child) Class Inherits Product Class|
 |--------|--------|--------|
 |[Link to Skillset 10 Code](../skillsets/10_Travel_Time/ "Link to Skillset 10 Code")|[Link to Skillset 11 Code](../skillsets/11_Product_Class/ "Link to Skillset 11 Code")|[Link to Skillset 12 Code](../skillsets/12_Book_Class/ "Link to Skillset 12 Code") 
-|[![Skillset 10 Travel Time](img/travel_time.png "Skillset 10 Travel Time")](img/travle_time.png)|[![Skillset 11 Product (Base/Super/Parent) Class](img/product_class.png "Skillset 11 Product (Base/Super/Parent) Class")](img/product_class.png)|[![Skillset 12 Book (Sub/Derived/Child) Class Inherits Product Class](img/book_class.png "Skillset 12 Book (Sub/Derived/Child) Class Inherits Product Class")](img/cook_class.png)|
+|[![Skillset 10 Travel Time](img/travel_time.png "Skillset 10 Travel Time")](img/travel_time.png)|[![Skillset 11 Product (Base/Super/Parent) Class](img/product_class.png "Skillset 11 Product (Base/Super/Parent) Class")](img/product_class.png)|[![Skillset 12 Book (Sub/Derived/Child) Class Inherits Product Class](img/book_class.png "Skillset 12 Book (Sub/Derived/Child) Class Inherits Product Class")](img/book_class.png)|
 
 #### Repository Links:
 
