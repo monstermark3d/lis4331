@@ -1,55 +1,50 @@
-# LIS4381 - Mobile Web Application Development
+# LIS4331 - Advanced Mobile Web Application Development
 
 ## Mark Trombly
 
 ### Assignment #4 Requirements:
 
-*Six Parts:*
+*Five Parts:*
 
-1. Create PHP page using Bootstrap to show client side data validation for petstore entity.
-2. Show use of regular expressions.
-3. Skillset 10 - Array List
-4. Skillset 11 - Alpha Numeric Special
-5. Skillset 12 - Temperature Conversion
-6. Chapter Questions (Ch 9,10,15)
+1. Provide screenshots of Home Mortgage App
+    - Splash Screen
+    - Follow-up Screen
+    - Invalid Entry
+    - Computed Interest and Total paid
+2. Skillset 10 - Travel Time
+3. Skillset 11 - Product (Base/Super/Parent) Class
+4. Skillset 12 - Book (Sub/Derived/Child) Class Inherits Product Class
+5. Chapter Questions (Ch 11, 12)
 
 #### README.md file includes the following items:
 
-* Screenshot of Main page
-* Screenshot of Failed validation
-* Screenshot of Passed validation
-* Screenshot Skillset 10 - Array List
-* Screenshot Skillset 11 - Alpha Numeric Special
-* Screenshot Skillset 12 - Temperature Conversion
+* Screenshot of running Android Studio Application -  Home Mortgage App
+    - Splash Screen
+    - Follow-up Screen
+    - Invalid Entry
+    - Computed Interest and Total paid
+* Screenshot Skillset 10 - Travel Time
+* Screenshot Skillset 11 - Product (Base/Super/Parent) Class
+* Screenshot Skillset 12 - Book (Sub/Derived/Child) Class Inherits Product Class
 * Bitbucket repository link
 
 #### Assignment Screenshots:
 
-#### Screenshot of Main page:
+#### Screenshots of Android Studio Application - Home Mortgage App:
 
-![Screenshot of Main page](img/main.gif "Screenshot of main page")
+|Home Mortgage Vertical                                                                    |  Home Mortgage Horizontal                                                             |
+| :----------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
+| ![Home Mortgage App Vertical](img/home_mortgage.gif "Android Application Home Mortgage App Vertical image") | ![Home Mortgage App Horizontal](img/home_mortgage_h.gif "Android Application Home Mortgage App Horizontal image") |
 
-#### Screenshot of Failed validation:
-
-![Screenshot of Failed validation](img/failed.png "Screenshot of failed validation")
-
-#### Screenshots of Passed validation:
-
-![Screenshot of Passed validation](img/passed.png "Screenshot of passed validation")
 
 #### Skillsets:
 
-|Skillset 10 - Array List|Skillset 11 - Alpha Numeric Special|Skillset 12 - Temperature Conversion|
+|Skillset 10 - Travel Time|Skillset 11 - Product (Base/Super/Parent) Class|Skillset 12 - Book (Sub/Derived/Child) Class Inherits Product Class|
 |--------|--------|--------|
-|[Link to Skillset 10 Code](../skillsets/10_Array_List/ "Link to Skillset 10 Code")|[Link to Skillset 11 Code](../skillsets/11_Alpha_Numeric_Special/ "Link to Skillset 11 Code")|[Link to Skillset 12 Code](../skillsets/12_Temperature_Conversion/ "Link to Skillset 12 Code") 
-|[![Skillset 10 Array List](img/arraylist.png "Skillset 10 Array List")](img/arraylist.png)|[![Skillset 11 Alpha Numeric Special](img/alphanumericspec.png "Skillset 11 Alpha Numeric Special")](img/alphanumericspec.png)|[![Skillset 12 Temperature Conversion](img/tempconversion.png "Skillset 12 Temperature Conversion")](img/tempconversion.png)|
-
-#### Link to Local web app:
-
-*Local Application*
-[Local App Link](http://localhost/repos/4381/index.php "Local App Link")
+|[Link to Skillset 10 Code](../skillsets/10_Travel_Time/ "Link to Skillset 10 Code")|[Link to Skillset 11 Code](../skillsets/11_Product_Class/ "Link to Skillset 11 Code")|[Link to Skillset 12 Code](../skillsets/12_Book_Class/ "Link to Skillset 12 Code") 
+|[![Skillset 10 Travel Time](img/travel_time.png "Skillset 10 Travel Time")](img/travle_time.png)|[![Skillset 11 Product (Base/Super/Parent) Class](img/product_class.png "Skillset 11 Product (Base/Super/Parent) Class")](img/product_class.png)|[![Skillset 12 Book (Sub/Derived/Child) Class Inherits Product Class](img/book_class.png "Skillset 12 Book (Sub/Derived/Child) Class Inherits Product Class")](img/cook_class.png)|
 
 #### Repository Links:
 
 *Bitbucket Repository*
-[Bitbucket Repository Link](https://bitbucket.org/marktrombly/lis4381/src/master/ "Bitbucket Repository Link")
+[Bitbucket Repository Link](https://bitbucket.org/marktrombly/lis4331/src/master/ "Bitbucket Repository Link")
