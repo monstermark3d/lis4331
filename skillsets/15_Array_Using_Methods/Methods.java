@@ -81,7 +81,7 @@ public class Methods
         {
             total += numbers[i];
         }
-        System.out.println("\nSUm of all numbers is " + total);
+        System.out.println("\nSum of all numbers is " + total);
     }
 
     public static void displayHigherThanAverage(int[] numbers)
