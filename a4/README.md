@@ -32,7 +32,7 @@
 
 #### Screenshots of Android Studio Application - Home Mortgage App:
 
-|Home Mortgage                                                                         |  Home Mortgage Error                                                             |
+|Home Mortgage                                                                         |  Home Mortgage Horizontal                                                             |
 | :----------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
 | ![Home Mortgage App](img/home_mortgage.gif "Android Application Home Mortgage App") | ![Home Mortgage App Error](img/home_mortgage_h.gif "Android Application Home Mortgage App Error") |
 

@@ -50,8 +50,14 @@
     - Skillsets 10 - 12
     - Chapter Questions (Ch 11, 12)
 
-6. [A5 README.md](_a5/README.md "My A5 README.md file")
-    - TBD
+6. [A5 README.md](a5/README.md "My A5 README.md file")
+     - Provide screenshots of News Reader App
+        - Splash Screen
+        - Main screen with app title and list of articles
+        - Article screen
+        - Link to article web page
+    - Skillsets 13 - 15
+    - Chapter Questions (Ch 9, 10)
 
 7. [P2 README.md](_p2/README.md "My P2 README.md file")
     - TBD
