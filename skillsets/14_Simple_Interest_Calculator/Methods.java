@@ -17,7 +17,7 @@ public class Methods
         System.out.println("\nDeveloper: Mark Trombly");
         System.out.println("Program performs the following functions:\n" +
         "1. Calculates amount of money saved for a period of years, at a specified interest rate (i.e., yearly, non-compounded);\n" +    
-        "2. Returned amount is formatted in U.S. currency, and rounded to two decimal places.\n" +
+        "2. Returned amount is formatted in U.S. currency, and rounded to two decimal places.\n\n" +
         "***Note:*** Program checks for non-numeric values, as well as only integer values for years.\n");
     }
 
