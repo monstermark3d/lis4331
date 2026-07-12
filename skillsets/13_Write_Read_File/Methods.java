@@ -17,7 +17,7 @@ public class Methods
         //display operational messages
         System.out.println("Developer: Mark Trombly");
         System.out.println("Program writes to and reads from same file.\n" +
-        "Write separate lines of text to text file named \"myfile.txt\").\n" +    
+        "Write separate lines of text to text file named \"myfile.txt\".\n" +    
         "Include appropriate try/catch blocks.\n");
     }
 
