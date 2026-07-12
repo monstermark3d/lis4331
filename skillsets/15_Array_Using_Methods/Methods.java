@@ -96,6 +96,7 @@ public class Methods
         average = sum / numbers.length;
 
         //comare and display
+        System.out.println("Average is " + average);
         for(int i = 0; i < numbers.length; i++)
         {
             if(numbers[i] > average)
