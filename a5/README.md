@@ -30,8 +30,6 @@
 
 #### Assignment Screenshots:
 
-#### Screenshot of Main page:
-
 #### Screenshots of Android Studio Application - News Reader App:
 
 |News Reader                                                                        |  News Reader Horizontal                                                          |
