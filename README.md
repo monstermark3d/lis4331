@@ -43,7 +43,7 @@
 
 5. [A4 README.md](a4/README.md "My A4 README.md file")
     - Provide screenshots of Home Mortgage App
-        - Splash Screen
+        - Splash screen
         - Unpopulated User Interface
         - Invalid Entry
         - Computed Interest and Total paid
@@ -52,12 +52,19 @@
 
 6. [A5 README.md](a5/README.md "My A5 README.md file")
      - Provide screenshots of News Reader App
-        - Splash Screen
+        - Splash screen
         - Main screen with app title and list of articles
         - Article screen
         - Link to article web page
     - Skillsets 13 - 15
     - Chapter Questions (Ch 9, 10)
 
-7. [P2 README.md](_p2/README.md "My P2 README.md file")
-    - TBD
+7. [P2 README.md](p2/README.md "My P2 README.md file")
+    - Provide screenshots of My Users App
+        - Splash screen
+        - Add User screen
+        - Update User screen
+        - Delete User screen
+        - View Users screen
+    - Provide screenshot of Zip Code Locator App
+    - Chapter Questions (An introduction to databases PDF)
